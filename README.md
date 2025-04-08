@@ -32,7 +32,7 @@ eigenvalues, eigenvectors = np.linalg.eig(matrix)
 print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
 
 ## Output:
-![{E08A8E06-5107-41A8-85F4-14BA6C81050D}](https://github.com/user-attachments/assets/54c5b754-6f67-4491-bae2-6c9783af9fac)
+![Uploading {1366D842-2701-440F-85A7-E16B608C0B6E}.png…]()
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
